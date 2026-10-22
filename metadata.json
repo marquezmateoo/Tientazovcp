@@ -1,0 +1,7 @@
+{
+  "name": "MATE PAMPA | Mates Artesanales de Calidad",
+  "description": "Tienda online de mates artesanales, imperiales de alpaca, camioneros, torpedos y accesorios premium con editor visual personalizable.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
